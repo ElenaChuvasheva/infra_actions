@@ -19,4 +19,4 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo Add actions to build,
-        ecto test, and deploy your project
+        echo test, and deploy your project
